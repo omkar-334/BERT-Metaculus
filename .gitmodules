@@ -1,0 +1,3 @@
+[submodule "Web-Scraping"]
+	path = Web-Scraping
+	url = https://github.com/omkar-334/Web-Scraping.git
